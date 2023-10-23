@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer & Product Manager
 -----------------------------------
 
+* 🕹️ Software/DevOps Engineer on Playstation Games for Sony via @ImplicitConversions. Developping autotests and pipelines for retro games from PS1/PS2/PSP for the Playstation Plus Catalog (on PS4/PS5).
+
 * 🎮 Co-founding team of a Cloud Gaming Platform (Piepacker / Jam.gg) which raised 12M at Series A and that currently has 60+ employees. Helped from developing the whole codebase, structure and manage, hire more than 30 employees, building new teams and processes to make it grow (introduced Agile practices for 10+ devs, created a QA team and processes, created the product team and built the roadmap etc...) 
 
 * 🤹‍♂️ Various experiences from IT Teacher at University, Entrepreneur of a Software Engineering Company, Software Engineer in backend, frontend, python and VR, Project Manager of an Innovation Lab at Atos, etc... 
@@ -16,7 +18,6 @@ Software Engineer & Product Manager
 ### Also
 * 🌍  I'm based in France
 * ✉️  You can contact me at [alexandre.dooalmeida@gmail.com](mailto:alexandre.dooalmeida@gmail.com)
-* 🚀  I'm currently working on [Jam.gg](http://jam.gg)
 
 ### Skills
 
