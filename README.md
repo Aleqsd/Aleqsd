@@ -10,7 +10,7 @@ Software Engineer & Product Manager
 
 * 🤹‍♂️ Various experiences from IT Teacher at University, Entrepreneur of a Software Engineering Company, Software Engineer in backend, frontend, python and VR, Project Manager of an Innovation Lab at Atos, etc... 
 
-* 🧙‍♂️ 4 YOE as Product Manager / Senior Software Engineer / Entrepreneur / Teacher 
+* 🧙‍♂️ 6 YOE as  Senior Software Engineer / Product Manager / Entrepreneur / Teacher 
 * 👨‍💻 3 YOE of Apprenticeship as Software Engineer backend / VR and AR / Bioinformatics 
 * 🖥️ Master Degree in Computer Science (Software Engineering & Data Science) 
 * 🦠 Bachelor Degree in Cell Biology
