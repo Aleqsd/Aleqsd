@@ -1,23 +1,22 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexandre
 =================================================================================================================================
 
+🧾 [View my online CV](https://cv.zqsdev.com)  
+
 Software Engineer & Product Manager
 -----------------------------------
 
-* 🕹️ Software/DevOps Engineer on Playstation Games for Sony via @ImplicitConversions. Developping autotests and pipelines for retro games from PS1/PS2/PSP for the Playstation Plus Catalog (on PS4/PS5).
-
-* 🎮 Co-founding team of a Cloud Gaming Platform (Piepacker / Jam.gg) which raised 12M at Series A and that currently has 60+ employees. Helped from developing the whole codebase, structure and manage, hire more than 30 employees, building new teams and processes to make it grow (introduced Agile practices for 10+ devs, created a QA team and processes, created the product team and built the roadmap etc...) 
-
-* 🤹‍♂️ Various experiences from IT Teacher at University, Entrepreneur of a Software Engineering Company, Software Engineer in backend, frontend, python and VR, Project Manager of an Innovation Lab at Atos, etc... 
-
-* 🧙‍♂️ 6 YOE as Senior Software Engineer / Product Manager / Entrepreneur / Teacher 
-* 👨‍💻 3 YOE of Apprenticeship as Software Engineer backend / VR and AR / Bioinformatics 
-* 🖥️ Master Degree in Computer Science (Software Engineering & Data Science) 
-* 🦠 Bachelor Degree in Cell Biology
+* 🕹️ Software/DevOps Engineer on PlayStation Games for Sony via @ImplicitConversions. Developing autotests and CI/CD pipelines for retro games (PS1/PS2/PSP) in the PlayStation Plus Catalog (on PS4/PS5).
+* 🎮 Co-founding team of a cloud gaming platform (Piepacker / Jam.gg) that raised $12M in Series A and scaled to 60+ employees. Built the product and QA teams, hired 30+ people, structured development processes, and introduced Agile, roadmaps, meetings, etc.
+* 🤹‍♂️ Past experiences include teaching IT at university, founding a software engineering company, backend/frontend/VR dev, and innovation project manager at Atos.
+* 🧙‍♂️ 6 YOE as Senior Software Engineer / Product Manager / Entrepreneur / Teacher  
+* 👨‍💻 3 YOE in apprenticeships (backend / VR & AR / Bioinformatics)  
+* 🖥️ Master's in Computer Science (Software Engineering & Data Science)  
+* 🦠 Bachelor's in Cell & Molecular Biology
 
 ### Also
-* 🌍  I'm based in France
-* ✉️  You can contact me at [alexandre.dooalmeida@gmail.com](mailto:alexandre.dooalmeida@gmail.com)
+* 🌍  I'm based in Montpellier, France
+* ✉️  You can contact me at [alexandre@zqsdev.com](mailto:alexandre@zqsdev.com)
 
 ### Skills
 
